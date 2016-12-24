@@ -30,6 +30,10 @@ h3 {
   padding: 10px;
 }
 
+#description {
+  font-style: italic;
+}
+
 p {
   padding: 10px;
 }
